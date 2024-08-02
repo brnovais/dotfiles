@@ -7,19 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- None.
-
-## v1.0.0 (2024-07-07)
-
 First release.
 
 ### Added
 
-- Acknowledgments file.
-- Contributing file.
-- Changelog file.
-- License file.
-- Readme file.
+- None.
 
 ### Changed
 
