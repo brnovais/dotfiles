@@ -1,12 +1,11 @@
-#!/bin/sh
-
-set -eufo pipefail
-
 {{ if eq .osid "linux-debian" "linux-ubuntu" -}}
+#!/bin/sh
+set -eufo pipefail
 
 {{ $packages := list
      "curl"
      "sudo"
+     "tmux"
      "unzip" -}}
 
 {{ $sudo := "sudo " -}}
